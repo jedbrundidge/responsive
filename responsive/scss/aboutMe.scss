@@ -1,0 +1,36 @@
+
+section{
+  position: absolute;
+  height: 60%;
+  width: 100%;
+  top: 80%;
+  text-align: center;
+  border-bottom: solid red 3px;
+}
+
+#selfie{
+  position: relative;
+  bottom: 15%;
+  margin: auto;
+  height: 55%;
+  width: 18%;
+  border-radius: 50%;
+
+  img{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    bottom: 15%;
+  }
+}
+
+h6{
+  position: relative;
+  margin-top: 1%;
+  font-size: 3vh;
+  color: brown;
+  font-family: overlock;
+  bottom: 25%;
+}
+
