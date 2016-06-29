@@ -56,7 +56,7 @@ nav {
   #sectionAbout h1 {
     color: brown;
     font-family: overlock;
-    font-size: 4vw;
+    font-size: 3vw;
     padding-top: 3%; }
 
 #aboutHeader {
@@ -67,6 +67,7 @@ nav {
     border-radius: 50%;
     margin: auto; }
     #aboutHeader #selfieWrapper img {
+      margin-top: 5%;
       height: 100%;
       width: 100%;
       border-radius: 50%; }
@@ -174,7 +175,7 @@ nav {
   #sectionWork h1 {
     color: brown;
     font-family: overlock;
-    font-size: 4vw; }
+    font-size: 3vw; }
 
 #projectsWrapper {
   height: 50%;
@@ -196,8 +197,7 @@ nav {
     height: 35%;
     width: 12%;
     border-radius: 50%;
-    margin: 3% 0 0 5%;
-    background-color: blue; }
+    margin: 3% 0 0 5%; }
     #projectsWrapper #carisch #carischBG {
       height: 100%;
       width: 100%;
@@ -208,8 +208,7 @@ nav {
     height: 35%;
     width: 12%;
     border-radius: 50%;
-    margin: 3% 0 0 5%;
-    background-color: red; }
+    margin: 3% 0 0 5%; }
     #projectsWrapper #brew #brewBG {
       height: 100%;
       width: 100%;
@@ -246,8 +245,19 @@ nav {
     background: gainsboro; }
     #projectsWrapper #more #moreBG {
       font-size: 3vh;
-      padding-top: 20%;
+      padding-top: 21%;
       color: brown; }
+
+#sectionContact {
+  height: 60%;
+  width: 100%;
+  position: absolute;
+  top: 255%;
+  text-align: center; }
+  #sectionContact #contactHeader {
+    color: brown;
+    font-size: 3vw;
+    font-family: overlock; }
 
 html, body {
   outline: 0;

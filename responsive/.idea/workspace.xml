@@ -21,34 +21,84 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
+            <state relative-caret-position="119">
+              <caret line="7" column="129" selection-start-line="7" selection-start-column="129" selection-end-line="7" selection-end-column="129" />
               <folding>
-                <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#1;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#2;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#0;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#1;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#2;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#3;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#4;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#5;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#6;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#7;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#path#8;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#1;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#2;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#0;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#1;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#2;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#3;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#4;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#5;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#6;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#7;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#path#8;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sectionWork.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sectionContact.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/sectionContact.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sectionWork.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scss/sectionWork.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+            <state relative-caret-position="255">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sectionAbout.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/sectionAbout.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainHeaderWrapper.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/mainHeaderWrapper.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/nav.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -83,9 +133,10 @@
         <option value="$PROJECT_DIR$/scss/work.scss" />
         <option value="$PROJECT_DIR$/scss/nav.scss" />
         <option value="$PROJECT_DIR$/scss/main.scss" />
-        <option value="$PROJECT_DIR$/scss/sectionAbout.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/scss/sectionWork.scss" />
+        <option value="$PROJECT_DIR$/scss/sectionAbout.scss" />
+        <option value="$PROJECT_DIR$/scss/sectionContact.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -96,9 +147,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="x" value="-24" />
+    <option name="y" value="598" />
+    <option name="width" value="1924" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -155,21 +206,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="responsive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="responsive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="bower_components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -280,18 +317,18 @@
       <workItem from="1466974778334" duration="599000" />
       <workItem from="1466976727925" duration="4408000" />
       <workItem from="1466984324477" duration="11039000" />
-      <workItem from="1466998969259" duration="32266000" />
+      <workItem from="1466998969259" duration="34847000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59297000" />
+    <option name="totallyTimeSpent" value="61878000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-24" y="598" width="1924" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24762908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24920467" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.50421494" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -325,7 +362,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scss/describe.scss" />
     <entry file="file://$PROJECT_DIR$/scss/mainHeaderWrapper.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -355,22 +391,22 @@
         <state relative-caret-position="1105">
           <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding>
-            <marker date="1467167378556" expanded="true" signature="10:134" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="140:190" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="203:295" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="312:416" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="437:492" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="501:644" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="501:646" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="656:693" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="703:741" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="749:801" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="798:801" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="811:910" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="942:1049" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="1064:1167" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="1172:1289" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="4727:4784" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="10:134" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="140:190" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="203:295" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="312:416" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="437:492" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="501:644" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="501:646" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="656:693" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="703:741" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="749:801" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="798:801" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="811:910" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="942:1049" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="1064:1167" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="1172:1289" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="4904:4961" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -401,18 +437,18 @@
         <state relative-caret-position="323">
           <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding>
-            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#1;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#2;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#0;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#1;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#2;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#3;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#4;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#5;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#6;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#7;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#8;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#1;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#2;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#1;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#2;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#3;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#4;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#5;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#6;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#7;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#8;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -454,22 +490,22 @@
         <state relative-caret-position="782">
           <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
-            <marker date="1467167378556" expanded="true" signature="10:134" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="140:190" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="203:295" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="312:416" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="437:492" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="501:644" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="501:646" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="656:693" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="703:741" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="749:801" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="798:801" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="811:910" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="942:1049" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="1064:1167" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="1172:1289" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="4727:4784" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="10:134" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="140:190" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="203:295" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="312:416" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="437:492" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="501:644" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="501:646" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="656:693" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="703:741" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="749:801" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="798:801" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="811:910" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="942:1049" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="1064:1167" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="1172:1289" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="4904:4961" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -500,18 +536,18 @@
         <state relative-caret-position="323">
           <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
           <folding>
-            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#1;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#2;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#0;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#1;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#2;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#3;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#4;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#5;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#6;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#7;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#8;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#1;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#2;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#1;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#2;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#3;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#4;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#5;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#6;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#7;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#8;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -553,22 +589,22 @@
         <state relative-caret-position="799">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
-            <marker date="1467167378556" expanded="true" signature="10:134" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="140:190" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="203:295" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="312:416" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="437:492" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="501:644" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="501:646" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="656:693" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="703:741" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="749:801" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="798:801" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="811:910" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="942:1049" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="1064:1167" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="1172:1289" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="4727:4784" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="10:134" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="140:190" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="203:295" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="312:416" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="437:492" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="501:644" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="501:646" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="656:693" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="703:741" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="749:801" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="798:801" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="811:910" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="942:1049" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="1064:1167" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="1172:1289" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="4904:4961" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -611,31 +647,23 @@
         <state relative-caret-position="1411">
           <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding>
-            <marker date="1467167378556" expanded="true" signature="10:134" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="140:190" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="203:295" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="312:416" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="437:492" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="501:644" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="501:646" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="656:693" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="703:741" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="749:801" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="798:801" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="811:910" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="942:1049" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="1064:1167" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="1172:1289" ph="{...}" />
-            <marker date="1467167378556" expanded="true" signature="4727:4784" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="10:134" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="140:190" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="203:295" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="312:416" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="437:492" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="501:644" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="501:646" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="656:693" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="703:741" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="749:801" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="798:801" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="811:910" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="942:1049" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="1064:1167" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="1172:1289" ph="{...}" />
+            <marker date="1467177051901" expanded="true" signature="4904:4961" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/mainHeaderWrapper.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,30 +721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/nav.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/sectionAbout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/folio/folioModalview.PNG">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -737,32 +741,72 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/scss/nav.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#1;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#2;n#svg#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#0;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#1;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#2;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#3;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#4;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#5;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#6;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#7;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#path#8;n#svg#1;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/mainHeaderWrapper.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/sectionAbout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/sectionWork.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
+        <state relative-caret-position="255">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/sectionContact.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="129" selection-start-line="7" selection-start-column="129" selection-end-line="7" selection-end-column="129" />
+          <folding>
+            <element signature="n#style#0;n#path#0;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#1;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#2;n#svg#0;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#0;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#1;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#2;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#3;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#4;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#5;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#6;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#7;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#path#8;n#svg#1;n#div#0;n#header#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
