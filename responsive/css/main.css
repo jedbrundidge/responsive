@@ -47,40 +47,207 @@ nav {
   width: 90%;
   border: solid rebeccapurple 3px; }
 
-section {
-  position: absolute;
-  height: 60%;
+#sectionAbout {
   width: 100%;
-  top: 80%;
+  height: 65%;
   text-align: center;
-  border-bottom: solid red 3px; }
+  position: absolute;
+  top: 60%; }
+  #sectionAbout h1 {
+    color: brown;
+    font-family: overlock;
+    font-size: 4vw;
+    padding-top: 3%; }
 
-#selfie {
-  position: relative;
-  bottom: 15%;
-  margin: auto;
-  height: 55%;
-  width: 18%;
-  border-radius: 50%; }
-  #selfie img {
-    position: relative;
-    height: 100%;
-    width: 100%;
+#aboutHeader {
+  height: 60%; }
+  #aboutHeader #selfieWrapper {
+    height: 65%;
+    width: 15%;
     border-radius: 50%;
-    bottom: 15%; }
+    margin: auto; }
+    #aboutHeader #selfieWrapper img {
+      height: 100%;
+      width: 100%;
+      border-radius: 50%; }
 
-h6 {
-  position: relative;
-  margin-top: 1%;
-  font-size: 3vh;
-  color: brown;
-  font-family: overlock;
-  bottom: 25%; }
+#curling {
+  position: absolute;
+  height: 20%;
+  width: 7%;
+  border-radius: 50%;
+  background-color: brown;
+  text-align: center;
+  font-size: 100%;
+  margin: 5%; }
+  #curling h1 {
+    color: antiquewhite;
+    font-size: 1.6vw;
+    padding-top: 28%;
+    margin: auto; }
 
-#work {
-  height: 70%;
-  margin-top: 30%;
-  background-color: gainsboro; }
+#javascript {
+  position: absolute;
+  height: 20%;
+  width: 7%;
+  border-radius: 50%;
+  background-color: brown;
+  text-align: center;
+  font-size: 100%;
+  left: 10%;
+  margin: 5% 0 0 13%; }
+  #javascript h1 {
+    color: antiquewhite;
+    font-size: 1.6vw;
+    padding-top: 12%; }
+
+#web {
+  position: absolute;
+  height: 20%;
+  width: 7%;
+  border-radius: 50%;
+  background-color: brown;
+  text-align: center;
+  font-size: 100%;
+  left: 56%;
+  margin: 5% 0 0 13%; }
+  #web h1 {
+    color: antiquewhite;
+    font-size: 1.6vw;
+    padding-top: 12%; }
+
+#fishing {
+  position: absolute;
+  height: 20%;
+  width: 7%;
+  border-radius: 50%;
+  background-color: brown;
+  text-align: center;
+  font-size: 100%;
+  left: 74%;
+  margin: 5% 0 0 13%; }
+  #fishing h1 {
+    color: antiquewhite;
+    font-size: 1.6vw;
+    padding-top: 12%; }
+
+#aboutContent {
+  width: 35%;
+  height: 75%;
+  margin: auto;
+  margin-left: 5%;
+  font-size: 1.2em;
+  float: left;
+  overflow-x: auto;
+  overflow-y: auto; }
+
+#p1 {
+  text-align: left; }
+
+#p2 {
+  text-align: left; }
+
+#p3 {
+  text-align: left; }
+
+#p4 {
+  text-align: left; }
+
+#chart {
+  position: absolute;
+  width: 50%;
+  height: 76%;
+  left: 48%;
+  bottom: -70%; }
+  #chart h1 {
+    padding-top: 0;
+    font-size: 2em; }
+
+#sectionWork {
+  width: 100%;
+  height: 65%;
+  text-align: center;
+  position: absolute;
+  top: 170%;
+  margin-top: 10%;
+  background-color: antiquewhite; }
+  #sectionWork h1 {
+    color: brown;
+    font-family: overlock;
+    font-size: 4vw; }
+
+#projectsWrapper {
+  height: 50%;
+  width: 100%;
+  margin-top: 8%; }
+  #projectsWrapper #knabba {
+    position: absolute;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%; }
+    #projectsWrapper #knabba #knabbaBG {
+      height: 100%;
+      width: 100%;
+      border-radius: 50%; }
+  #projectsWrapper #carisch {
+    position: absolute;
+    left: 15%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%;
+    background-color: blue; }
+    #projectsWrapper #carisch #carischBG {
+      height: 100%;
+      width: 100%;
+      border-radius: 50%; }
+  #projectsWrapper #brew {
+    position: absolute;
+    left: 30%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%;
+    background-color: red; }
+    #projectsWrapper #brew #brewBG {
+      height: 100%;
+      width: 100%;
+      border-radius: 50%; }
+  #projectsWrapper #parallax {
+    position: absolute;
+    left: 45%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%; }
+    #projectsWrapper #parallax #parallaxBG {
+      height: 100%;
+      width: 100%;
+      border-radius: 50%; }
+  #projectsWrapper #angular {
+    position: absolute;
+    left: 60%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%; }
+    #projectsWrapper #angular #angularBG {
+      height: 100%;
+      width: 100%;
+      border-radius: 50%; }
+  #projectsWrapper #more {
+    position: absolute;
+    left: 75%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%;
+    background: gainsboro; }
+    #projectsWrapper #more #moreBG {
+      font-size: 3vh;
+      padding-top: 20%;
+      color: brown; }
 
 html, body {
   outline: 0;

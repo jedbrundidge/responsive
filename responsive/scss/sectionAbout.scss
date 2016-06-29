@@ -1,0 +1,148 @@
+
+$hobbyBG: brown;
+$hobbyFontColor: antiquewhite;
+
+#sectionAbout{
+  width: 100%;
+  height: 65%;
+  text-align: center;
+  position: absolute;
+  top: 60%;
+
+  h1{
+    color: brown;
+    font-family: overlock;
+    font-size: 4vw;
+    padding-top: 3%;
+  }
+}
+
+
+
+#aboutHeader{
+  height: 60%;
+
+  #selfieWrapper{
+    height: 65%;
+    width: 15%;
+    border-radius: 50%;
+    margin: auto;
+
+    img{
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+    }
+  }
+}
+
+#curling{
+  position: absolute;
+  height: 20%;
+  width: 7%;
+  border-radius: 50%;
+  background-color: $hobbyBG;
+  text-align: center;
+  font-size: 100%;
+  margin: 5%;
+
+  h1{
+    color: $hobbyFontColor;
+    font-size: 1.6vw;
+    padding-top: 28%;
+    margin: auto;
+  }
+}
+
+#javascript{
+  position: absolute;
+  height: 20%;
+  width: 7%;
+  border-radius: 50%;
+  background-color: $hobbyBG;
+  text-align: center;
+  font-size: 100%;
+  left: 10%;
+  margin: 5% 0 0 13%;
+
+  h1{
+    color: $hobbyFontColor;
+    font-size: 1.6vw;
+    padding-top: 12%;
+  }
+}
+
+#web{
+  position: absolute;
+  height: 20%;
+  width: 7%;
+  border-radius: 50%;
+  background-color: $hobbyBG;
+  text-align: center;
+  font-size: 100%;
+  left: 56%;
+  margin: 5% 0 0 13%;
+
+  h1{
+    color: $hobbyFontColor;
+    font-size: 1.6vw;
+    padding-top: 12%;
+  }
+}
+
+#fishing{
+  position: absolute;
+  height: 20%;
+  width: 7%;
+  border-radius: 50%;
+  background-color: $hobbyBG;
+  text-align: center;
+  font-size: 100%;
+  left: 74%;
+  margin: 5% 0 0 13%;
+
+  h1{
+    color: $hobbyFontColor;
+    font-size: 1.6vw;
+    padding-top: 12%;
+  }
+}
+#aboutContent{
+  width: 35%;
+  height: 75%;
+  margin: auto;
+  margin-left: 5%;
+  font-size: 1.2em;
+  float: left;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+
+#p1 {
+  text-align: left;
+}
+
+#p2{
+  text-align: left;
+}
+
+#p3{
+  text-align: left;
+}
+
+#p4{
+  text-align: left;
+}
+
+#chart{
+  position: absolute;
+  width: 50%;
+  height: 76%;
+  left: 48%;
+  bottom: -70%;
+
+  h1{
+    padding-top: 0;
+    font-size: 2em;
+  }
+}

@@ -1,0 +1,116 @@
+
+$sectionBG: antiquewhite;
+
+#sectionWork{
+  width: 100%;
+  height: 65%;
+  text-align: center;
+  position: absolute;
+  top: 170%;
+  margin-top: 10%;
+  background-color: $sectionBG;
+
+  h1{
+    color: brown;
+    font-family: overlock;
+    font-size: 4vw;
+  }
+}
+
+#projectsWrapper{
+  height: 50%;
+  width: 100%;
+  margin-top: 8%;
+
+  #knabba{
+    position: absolute;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%;
+
+    #knabbaBG{
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+    }
+  }
+
+  #carisch{
+    position: absolute;
+    left: 15%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%;
+    background-color: blue;
+
+    #carischBG{
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+    }
+  }
+
+  #brew{
+    position: absolute;
+    left: 30%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%;
+    background-color: red;
+
+    #brewBG{
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+    }
+  }
+
+  #parallax{
+    position: absolute;
+    left: 45%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%;
+
+    #parallaxBG{
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+    }
+  }
+
+  #angular{
+    position: absolute;
+    left: 60%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%;
+
+    #angularBG{
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+    }
+  }
+
+  #more{
+    position: absolute;
+    left: 75%;
+    height: 35%;
+    width: 12%;
+    border-radius: 50%;
+    margin: 3% 0 0 5%;
+    background: gainsboro;
+
+    #moreBG{
+      font-size: 3vh;
+      padding-top: 20%;
+      color: brown;
+    }
+  }
+}
