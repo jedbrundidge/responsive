@@ -186,67 +186,78 @@ nav {
     height: 35%;
     width: 12%;
     border-radius: 50%;
-    margin: 3% 0 0 5%; }
-    #projectsWrapper #knabba #knabbaBG {
-      height: 100%;
-      width: 100%;
-      border-radius: 50%; }
-  #projectsWrapper #carisch {
-    position: absolute;
-    left: 15%;
-    height: 35%;
-    width: 12%;
-    border-radius: 50%;
-    margin: 3% 0 0 5%; }
-    #projectsWrapper #carisch #carischBG {
-      height: 100%;
-      width: 100%;
-      border-radius: 50%; }
-  #projectsWrapper #brew {
-    position: absolute;
-    left: 30%;
-    height: 35%;
-    width: 12%;
-    border-radius: 50%;
-    margin: 3% 0 0 5%; }
-    #projectsWrapper #brew #brewBG {
-      height: 100%;
-      width: 100%;
-      border-radius: 50%; }
-  #projectsWrapper #parallax {
-    position: absolute;
-    left: 45%;
-    height: 35%;
-    width: 12%;
-    border-radius: 50%;
-    margin: 3% 0 0 5%; }
-    #projectsWrapper #parallax #parallaxBG {
-      height: 100%;
-      width: 100%;
-      border-radius: 50%; }
-  #projectsWrapper #angular {
-    position: absolute;
-    left: 60%;
-    height: 35%;
-    width: 12%;
-    border-radius: 50%;
-    margin: 3% 0 0 5%; }
-    #projectsWrapper #angular #angularBG {
-      height: 100%;
-      width: 100%;
-      border-radius: 50%; }
-  #projectsWrapper #more {
-    position: absolute;
-    left: 75%;
-    height: 35%;
-    width: 12%;
-    border-radius: 50%;
     margin: 3% 0 0 5%;
-    background: gainsboro; }
-    #projectsWrapper #more #moreBG {
-      font-size: 3vh;
-      padding-top: 21%;
-      color: brown; }
+    background: url("../images/knabba/KnabbaMainScreen.PNG") no-repeat center center;
+    background-size: cover; }
+
+#carisch {
+  position: absolute;
+  left: 15%;
+  height: 35%;
+  width: 12%;
+  border-radius: 50%;
+  margin: 3% 0 0 5%; }
+  #carisch #carischBG {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%; }
+
+#brew {
+  position: absolute;
+  left: 30%;
+  height: 35%;
+  width: 12%;
+  border-radius: 50%;
+  margin: 3% 0 0 5%; }
+  #brew #brewBG {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%; }
+
+#parallax {
+  position: absolute;
+  left: 45%;
+  height: 35%;
+  width: 12%;
+  border-radius: 50%;
+  margin: 3% 0 0 5%; }
+  #parallax #parallaxBG {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%; }
+
+#angular {
+  position: absolute;
+  left: 60%;
+  height: 35%;
+  width: 12%;
+  border-radius: 50%;
+  margin: 3% 0 0 5%; }
+  #angular #angularBG {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%; }
+
+#more {
+  position: absolute;
+  left: 75%;
+  height: 35%;
+  width: 12%;
+  border-radius: 50%;
+  margin: 3% 0 0 5%;
+  background: gainsboro; }
+  #more #moreBG {
+    font-size: 3vh;
+    padding-top: 21%;
+    color: brown; }
+
+.thumb-overlay {
+  position: absolute, 100% 0px null 0px;
+  background: orange;
+  opacity: .8;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%; }
 
 #sectionContact {
   height: 80%;

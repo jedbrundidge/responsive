@@ -1,6 +1,7 @@
 
 $sectionBG: antiquewhite;
 
+
 #sectionWork{
   width: 100%;
   height: 65%;
@@ -28,13 +29,12 @@ $sectionBG: antiquewhite;
     width: 12%;
     border-radius: 50%;
     margin: 3% 0 0 5%;
-
-    #knabbaBG{
-      height: 100%;
-      width: 100%;
-      border-radius: 50%;
-    }
+    background: url("../images/knabba/KnabbaMainScreen.PNG") no-repeat center center;
+    background-size: cover;
   }
+}
+
+
 
   #carisch{
     position: absolute;
@@ -111,4 +111,13 @@ $sectionBG: antiquewhite;
       color: brown;
     }
   }
+
+.thumb-overlay{
+  position: absolute, 100% 0px null 0px;
+  background: orange;
+  opacity: .8;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+
 }
