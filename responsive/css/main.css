@@ -49,7 +49,7 @@ nav {
 
 #sectionAbout {
   width: 100%;
-  height: 65%;
+  height: 62%;
   text-align: center;
   position: absolute;
   top: 60%; }
@@ -134,7 +134,7 @@ nav {
 
 #aboutContent {
   width: 35%;
-  height: 75%;
+  height: 100%;
   margin: auto;
   margin-left: 5%;
   font-size: 1.2em;
@@ -249,7 +249,7 @@ nav {
       color: brown; }
 
 #sectionContact {
-  height: 60%;
+  height: 80%;
   width: 100%;
   position: absolute;
   top: 255%;
@@ -258,6 +258,33 @@ nav {
     color: brown;
     font-size: 3vw;
     font-family: overlock; }
+  #sectionContact #contactContentArea {
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    background-color: antiquewhite;
+    left: 20%; }
+    #sectionContact #contactContentArea #addressWrapper {
+      position: absolute;
+      padding-top: 15%;
+      left: 15%; }
+      #sectionContact #contactContentArea #addressWrapper #address {
+        color: brown; }
+    #sectionContact #contactContentArea #emailWrapper {
+      padding-top: 15%; }
+      #sectionContact #contactContentArea #emailWrapper #email {
+        color: brown; }
+    #sectionContact #contactContentArea #phoneWrapper {
+      position: relative;
+      left: 27%;
+      bottom: 24%;
+      height: 10%; }
+      #sectionContact #contactContentArea #phoneWrapper #phone {
+        color: brown; }
+
+p {
+  color: brown;
+  font-size: 2.5vh; }
 
 html, body {
   outline: 0;

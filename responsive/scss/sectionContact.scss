@@ -1,6 +1,6 @@
 
 #sectionContact{
-  height: 60%;
+  height: 80%;
   width: 100%;
   position: absolute;
   top: 255%;;
@@ -11,4 +11,48 @@
     font-size: 3vw;
     font-family: overlock;
   }
+
+  #contactContentArea{
+    width: 60%;
+    height: 60%;
+    position: absolute;
+    background-color: antiquewhite;
+    left: 20%;
+
+
+    #addressWrapper{
+      position: absolute;
+      padding-top: 15%;
+      left: 15%;
+
+      #address{
+        color: brown;
+      }
+    }
+
+    #emailWrapper{
+      padding-top: 15%;
+
+      #email{
+        color: brown;
+      }
+    }
+
+    #phoneWrapper{
+      position: relative;
+      left: 27%;
+      bottom: 24%;
+      height: 10%;
+
+      #phone{
+        color: brown;
+      }
+    }
+  }
 }
+
+p{
+  color: brown;
+  font-size: 2.5vh;
+}
+
