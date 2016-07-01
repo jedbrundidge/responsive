@@ -177,87 +177,82 @@ nav {
     font-family: overlock;
     font-size: 3vw; }
 
-#projectsWrapper {
-  height: 50%;
-  width: 100%;
-  margin-top: 8%; }
-  #projectsWrapper #knabba {
-    position: absolute;
-    height: 35%;
-    width: 12%;
-    border-radius: 50%;
-    margin: 3% 0 0 5%;
-    background: url("../images/knabba/KnabbaMainScreen.PNG") no-repeat center center;
-    background-size: cover; }
+.thumb-container {
+  max-width: 1000px;
+  margin: 0px auto;
+  padding-bottom: 100px; }
 
-#carisch {
-  position: absolute;
-  left: 15%;
-  height: 35%;
-  width: 12%;
-  border-radius: 50%;
-  margin: 3% 0 0 5%; }
-  #carisch #carischBG {
-    height: 100%;
-    width: 100%;
-    border-radius: 50%; }
+.thumb-unit {
+  display: block;
+  width: 25%;
+  float: left;
+  position: relative;
+  padding-top: 20%;
+  overflow: hidden;
+  perspective: 300px; }
 
-#brew {
-  position: absolute;
-  left: 30%;
-  height: 35%;
-  width: 12%;
-  border-radius: 50%;
-  margin: 3% 0 0 5%; }
-  #brew #brewBG {
-    height: 100%;
-    width: 100%;
-    border-radius: 50%; }
+strong {
+  display: block;
+  padding: 28px 23px 23px 23px;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1vw; }
 
-#parallax {
-  position: absolute;
-  left: 45%;
-  height: 35%;
-  width: 12%;
-  border-radius: 50%;
-  margin: 3% 0 0 5%; }
-  #parallax #parallaxBG {
-    height: 100%;
-    width: 100%;
-    border-radius: 50%; }
+.clearfix {
+  overflow: auto; }
 
-#angular {
-  position: absolute;
-  left: 60%;
-  height: 35%;
-  width: 12%;
-  border-radius: 50%;
-  margin: 3% 0 0 5%; }
-  #angular #angularBG {
-    height: 100%;
-    width: 100%;
-    border-radius: 50%; }
-
-#more {
-  position: absolute;
-  left: 75%;
-  height: 35%;
-  width: 12%;
-  border-radius: 50%;
-  margin: 3% 0 0 5%;
-  background: gainsboro; }
-  #more #moreBG {
-    font-size: 3vh;
-    padding-top: 21%;
-    color: brown; }
+.zoom {
+  color: white; }
 
 .thumb-overlay {
-  position: absolute, 100% 0px null 0px;
-  background: orange;
-  opacity: .8;
+  position: absolute;
+  top: 0%;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
   height: 100%;
-  width: 100%;
-  border-radius: 50%; }
+  background-color: #8a6d3b;
+  opacity: .9;
+  transition: all .4s ease;
+  transform: rotateX(90deg); }
+
+.thumb-unit:hover .thumb-overlay {
+  position: absolute;
+  top: 0%;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  transform: rotateX(0deg); }
+
+.knabbaBG {
+  background: url("../images/knabba/KnabbaMainScreen2PNG.PNG") no-repeat center center;
+  background-size: cover; }
+
+.brewBG {
+  background: url("../images/brew/brewMain.JPG") no-repeat center center;
+  background-size: cover; }
+
+.carischBG {
+  background: url("../images/carisch/AppController1.PNG") no-repeat center center;
+  background-size: cover; }
+
+.parallaxBG {
+  background: url("../images/parallax/parallaxMain.PNG") no-repeat center center;
+  background-size: cover; }
+
+.folioBG {
+  background: url("../images/folio/folioHome.PNG") no-repeat center center;
+  background-size: cover; }
+
+.archBG {
+  background: url("../images/arch/archStakeholders.PNG") no-repeat center center;
+  background-size: cover; }
+
+.more {
+  font-size: 2.5vh;
+  color: brown;
+  font-family: overlock; }
 
 #sectionContact {
   height: 80%;
@@ -287,7 +282,7 @@ nav {
         color: brown; }
     #sectionContact #contactContentArea #phoneWrapper {
       position: relative;
-      left: 27%;
+      left: 26%;
       bottom: 24%;
       height: 10%; }
       #sectionContact #contactContentArea #phoneWrapper #phone {
@@ -296,6 +291,33 @@ nav {
 p {
   color: brown;
   font-size: 2.5vh; }
+
+#footer {
+  position: absolute;
+  top: 340%;
+  width: 100%;
+  height: 17%;
+  background: url("../images/BG.jpg") no-repeat center center;
+  background-size: 100% 100%; }
+
+#nameFooterSVG {
+  padding: 20px 10px 10px 10px; }
+
+#footerLinks {
+  width: 30%;
+  float: right;
+  position: relative;
+  margin-top: 3.5%; }
+  #footerLinks ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 4%;
+    position: relative; }
+    #footerLinks ul li a {
+      text-decoration: none;
+      color: salmon;
+      font-size: 3vh;
+      font-family: overlock; }
 
 html, body {
   outline: 0;
